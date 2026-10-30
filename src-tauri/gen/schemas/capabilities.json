@@ -1,0 +1,1 @@
+{"playback-events":{"identifier":"playback-events","description":"Allow the local playback window to receive Rust playback state updates.","local":true,"windows":["main"],"permissions":["core:event:allow-listen","core:event:allow-unlisten"]}}
